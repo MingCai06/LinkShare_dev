@@ -1,4 +1,4 @@
-define(['jquery', 'qlik', 'angular', 'ng!$q', 'css!./LinkShare_dev_dev.css'], function ($, qlik, angular, $q) {
+define(['jquery', 'qlik', 'angular', 'ng!$q', 'css!./LinkShare_dev.css'], function ($, qlik, angular, $q) {
     return {
         //define the properties panel looks like
         definition: {
